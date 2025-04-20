@@ -8,7 +8,7 @@ middle_name:
 last_name: Holehouse
 contact_note: 
 description: 
-footer_text:
+footer_text: <a href="https://biology.wustl.edu" target="_blank">Department of Biology | Washington University in St Louis </a>
 keywords: rules, regulations, randomness # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: logo-sq.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
