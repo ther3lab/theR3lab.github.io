@@ -9,6 +9,7 @@ profile:
   image: logo-sq.png
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>James Holehouse</p>
     <p>209 Rebstock Hall</p>
     <p>Washington University</p>
     <p>St Louis, USA</p>
