@@ -23,6 +23,6 @@ announcements:
 
 ---
 
-# We study the growth of rules and regulations across Biology and Society, and the role that randomness plays in shaping system function and structure.
+### We study the growth of rules and regulations across Biology and Society, and the role that randomness plays in shaping system function and structure.
 
-## The Lab is activeley recruiting PhD students and Postdocs from Comp+Math Bio, Applied Math, and Statistical Physics backgrounds—please get in touch!
+The Lab is activeley recruiting PhD students and Postdocs from Comp+Math Bio, Applied Math, and Statistical Physics backgrounds—please get in touch!
