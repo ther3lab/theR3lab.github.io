@@ -10,13 +10,14 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: James©Merriam010.jpg
     content: about_james.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>209 Rebstock Hall</p>
       <p>Washington University</p>
       <p>St Louis, USA</p>
+  <!---
   - align: left
     image: prof_pic.jpg
     content: about_james.md
@@ -25,4 +26,5 @@ profiles:
       <p>209 Rebstock Hall</p>
       <p>Washington University</p>
       <p>St Louis, USA</p>
+  -->
 ---
