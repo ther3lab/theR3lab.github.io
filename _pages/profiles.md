@@ -17,14 +17,12 @@ profiles:
       <p>209 Rebstock Hall</p>
       <p>Washington University</p>
       <p>St Louis, USA</p>
-  <!---
-  - align: left
-    image: prof_pic.jpg
-    content: about_james.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>209 Rebstock Hall</p>
-      <p>Washington University</p>
-      <p>St Louis, USA</p>
-  -->
+  #- align: left
+  #  image: prof_pic.jpg
+  #  content: about_james.md
+  #  image_circular: false # crops the image to make it circular
+  #  more_info: >
+  #    <p>209 Rebstock Hall</p>
+  #    <p>Washington University</p>
+  #    <p>St Louis, USA</p>
 ---
