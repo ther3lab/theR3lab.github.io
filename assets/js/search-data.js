@@ -42,11 +42,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-the-rules-regulations-and-randomness-r-3-lab-will-be-starting-at-washu-s-department-of-biology-in-fall-2026",
+          title: 'The Rules, Regulations and Randomness ($R^3$) Lab will be starting at WashU’s department...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
