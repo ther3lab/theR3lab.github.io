@@ -31,4 +31,4 @@ Some questions driving the $R^3$ Lab's most recent research are:
 - How does biochemical randomness complicate our understanding of genetic regulation?
 - What are the constraints dictating how regulatory systems diversify, specialize and coordinate themselves?
 
-The Lab is activeley recruiting PhD students and Postdocs from Comp+Math Bio, Applied Math, and Statistical Physics backgrounds—please get in touch!
+The Lab is activeley recruiting PhD students and Postdocs from Comp+Math+Evo Bio, Applied Math, and Statistical Physics backgrounds—please get in touch.
