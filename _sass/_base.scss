@@ -6,6 +6,25 @@ body {
   font-family: 'Nunito Sans', sans-serif;
   font-weight: 500; // previously 400
   line-height: 1.6;
+
+  // Background image styles
+  background-image: url('logo-sq.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  // Semi-transparent overlay
+  &::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(var(--global-bg-color-rgb), 0.7);
+    z-index: -1;
+  } // <- This closes the &::before block
 }
 
 // Typography
